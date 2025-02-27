@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "mysql2": "^3.2.4",
-    "ssh2": "^1.11.0"
+    "mysql2": "^3.12.0",
+    "ssh2": "^1.16.0"
   },
   "name": "mysql2-ssh",
   "version": "1.2.0",
